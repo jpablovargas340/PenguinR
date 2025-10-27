@@ -1,0 +1,8 @@
+bibentry(
+  bibtype = "Manual",
+  title   = "PenguinR: A Comprehensive Collection of Penguin Datasets for Statistical Analysis and Experimental Design",
+  author  = "Juan Pablo Vargas Perez",
+  year    = 2025,
+  note    = "R package version 0.1.0",
+  url     = "https://github.com/jpablovargas340/PenguinR"
+)
