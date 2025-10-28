@@ -59,7 +59,8 @@ NULL
 #' The dataset covers three penguin species from three islands in the Palmer Archipelago.
 #'
 #' The columns of penguins_raw_df extend those of the penguins_df dataset, adding details
-#' such as study name, individual ID, clutch information, isotope composition (δ15N and δ13C),
+#' such as study name, individual ID, clutch information, isotope composition
+#' (\eqn{\delta^{15}N} and \eqn{\delta^{13}C}),
 #' and additional observational notes. Some variables include missing values.
 #'
 #' The dataset name has been kept as 'penguins_raw_df' to avoid confusion with other datasets
@@ -85,8 +86,8 @@ NULL
 #'   \item{Flipper Length (mm)}{Flipper length in millimeters (numeric).}
 #'   \item{Body Mass (g)}{Body mass in grams (numeric).}
 #'   \item{Sex}{Sex of the penguin (character).}
-#'   \item{Delta 15 N (o/oo)}{Nitrogen isotope ratio δ15N (per mil).}
-#'   \item{Delta 13 C (o/oo)}{Carbon isotope ratio δ13C (per mil).}
+#'   \item{Delta 15 N (o/oo)}{Nitrogen isotope ratio \eqn{\delta^{15}N} (per mil).}
+#'   \item{Delta 13 C (o/oo)}{Carbon isotope ratio \eqn{\delta^{13}C} (per mil).}
 #'   \item{Comments}{Additional notes and remarks (character).}
 #' }
 #' @source Data taken from the palmerpenguins package version 0.1.1

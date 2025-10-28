@@ -51,12 +51,6 @@ Below are selected example datasets included in the `PenguinR` package:
 # Load the package
 library(PenguinR)
 
-# Retrieve key information about penguins
-get_penguin_info()
-
-# Get average body mass by species
-get_avg_mass_by_species()
-
 # Load one of the package datasets
 data(penguins_df)
 
